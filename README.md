@@ -1,7 +1,24 @@
 # spring-boot-projects-tests
 
-Projetos para testes do SpringBoot + (Thymeleaf || Angular || React)
+Projects for testing SpringBoot + (Thymeleaf || Angular || React)
 
-## Projeto 01 - `.\student-management-system\`
+## Project-01 - `./student-management-system/`
 
-Projeto para testar o SpringBoot 2.4 com Thymeleaf (básico do uso)
+Project for testing SpringBoot 2.4 with Thymeleaf (basic)
+ - Maven
+ - SpringBoot 2.4
+ - Thymeleaf
+
+## Project-02 - `./sb-backend-angular/` and `./sb-frontend-angular`
+
+Project for testing SpringBoot with Angular
+ - Maven
+ - SpringBoot 2.4
+ - Angular 12
+ - Bootstrap 4
+
+#### `./sb-frontend-angular`
+Used VSCode to run and test
+
+#### `./sb-frontend-angular`
+Used eclipse to tun and test
